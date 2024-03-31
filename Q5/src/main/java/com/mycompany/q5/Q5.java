@@ -1,6 +1,4 @@
 
-package com.mycompany.q5;
-
 import java.util.Scanner;
 public class Q5 {
 
